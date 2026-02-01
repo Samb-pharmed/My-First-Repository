@@ -1,2 +1,2 @@
 # My-First-Repository
-I created this rep. to learn how to work with GitHub during my Data Science course on Coursera!
+I created this repo to learn how to use GitHub during my Data Science course on Coursera!
